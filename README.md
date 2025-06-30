@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python Developer
+👋 Hi, I’m Muthulakshmi  <br>🎓 ECE Final Year Student<br>🌱 Currently learning React and VS code<br>🛠️ Building small apps and contributing to open source  <br>📫 Reach me at: www.linkedin.com/in/k-muthulakshmi-061829293<br>muthulakshmi22tc0481@svcet.ac.in<br>
 
 
 ## 🌐 Socials:
